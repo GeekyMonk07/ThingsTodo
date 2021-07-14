@@ -33,7 +33,7 @@ class _EditTodoPageState extends State<EditTodoPage> {
           title: Text('Edit Todo'),
           actions: [
             IconButton(
-              icon: Icon(Icons.delete),
+              icon: Icon(Icons.delete_sweep),
               onPressed: () {
                 final provider =
                     Provider.of<TodosProvider>(context, listen: false);
