@@ -1,3 +1,4 @@
-# Flutter 
-ThingsTodo 
+# ThingsTodo
+
+Flutter Project
 
